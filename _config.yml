@@ -1,0 +1,23 @@
+title: DS-UA 201
+description: Causal Inference at NYU · Spring 2027
+tagline: Causal Inference
+baseurl: '/website'
+url: 'https://ds201-causal-inference.github.io'
+remote_theme: just-the-docs/just-the-docs@v0.4.0.rc3
+color_scheme: bluecsd
+search_enabled: true
+heading_anchors: true
+permalink: pretty
+plugins:
+  - jekyll-seo-tag
+exclude: [Gemfile, Gemfile.lock, README.md, vendor]
+
+collections:
+  modules:
+
+defaults:
+  - scope:
+      path: ""
+      type: modules
+    values:
+      layout: module
