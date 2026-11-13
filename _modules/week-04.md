@@ -1,5 +1,5 @@
 ---
-title: "Week 4 – Randomized Experiments"
+title: "Week 4: Randomized Experiments"
 days:
   - date: 2027-02-10
     events:

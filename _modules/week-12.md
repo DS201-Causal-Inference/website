@@ -1,5 +1,5 @@
 ---
-title: "Week 12 – Difference in Differences"
+title: "Week 12: Difference in Differences"
 days:
   - date: 2027-04-14
     events:

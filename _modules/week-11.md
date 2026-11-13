@@ -1,5 +1,5 @@
 ---
-title: "Week 11 – Regression Discontinuity"
+title: "Week 11: Regression Discontinuity"
 days:
   - date: 2027-04-07
     events:

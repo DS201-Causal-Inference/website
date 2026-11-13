@@ -1,0 +1,9 @@
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:ital,wght@0,200..800;1,200..800&amp;display=swap">
+<script>
+(function () {
+  try {
+    var font = localStorage.getItem('ds201-reading-font');
+    if (font === 'palatino' || font === 'atkinson') document.documentElement.classList.add('font-' + font);
+  } catch (_) {}
+})();
+</script>

@@ -1,5 +1,5 @@
 ---
-title: "Week 6 – Linear Regression"
+title: "Week 6: Linear Regression"
 days:
   - date: 2027-02-24
     events:

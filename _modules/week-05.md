@@ -1,5 +1,5 @@
 ---
-title: "Week 5 – Experimental Validity"
+title: "Week 5: Experimental Validity"
 days:
   - date: 2027-02-17
     events:

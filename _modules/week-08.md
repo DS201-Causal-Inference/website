@@ -1,5 +1,5 @@
 ---
-title: "Week 8 – Natural Experiments and Review"
+title: "Week 8: Natural Experiments and Review"
 days:
   - date: 2027-03-10
     events:

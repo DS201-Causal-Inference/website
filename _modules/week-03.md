@@ -1,5 +1,5 @@
 ---
-title: "Week 3 – Statistical Inference"
+title: "Week 3: Statistical Inference"
 days:
   - date: 2027-02-03
     events:

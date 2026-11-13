@@ -1,5 +1,5 @@
 ---
-title: "Week 10 – Instrumental Variables"
+title: "Week 10: Instrumental Variables"
 days:
   - date: 2027-03-31
     events:

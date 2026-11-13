@@ -1,5 +1,5 @@
 ---
-title: "Week 1 – Introduction and Causal Questions"
+title: "Week 1: Introduction and Causal Questions"
 days:
   - date: 2027-01-20
     events:

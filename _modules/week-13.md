@@ -1,5 +1,5 @@
 ---
-title: "Week 13 – Advanced Approaches and Applications"
+title: "Week 13: Advanced Approaches and Applications"
 days:
   - date: 2027-04-21
     events:

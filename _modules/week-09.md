@@ -1,5 +1,5 @@
 ---
-title: "Week 9 – Midterm and Instrumental Variables"
+title: "Week 9: Midterm and Instrumental Variables"
 days:
   - date: 2027-03-24
     events:

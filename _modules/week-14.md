@@ -1,5 +1,5 @@
 ---
-title: "Week 14 – Course Review"
+title: "Week 14: Course Review"
 days:
   - date: 2027-04-28
     events:

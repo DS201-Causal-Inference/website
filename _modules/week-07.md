@@ -1,5 +1,5 @@
 ---
-title: "Week 7 – Confounding and Controls"
+title: "Week 7: Confounding and Controls"
 days:
   - date: 2027-03-03
     events:

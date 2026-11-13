@@ -1,3 +1,5 @@
+@import 'mixins';
+
 .card {
   @include abstract-card();
   @include tight-headers();

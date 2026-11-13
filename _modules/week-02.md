@@ -1,5 +1,5 @@
 ---
-title: "Week 2 – Probability and Potential Outcomes"
+title: "Week 2: Probability and Potential Outcomes"
 days:
   - date: 2027-01-27
     events:
